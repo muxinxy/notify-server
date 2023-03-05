@@ -13,7 +13,7 @@ loveMsg:
   # 卡片标题信息（加粗显示）：今天是我们相恋的第 {day} 天，这里的 {day} 为固定替换相恋多久
   start_stamp_message: 今天是我们相恋的第 {day} 天
   # 女朋友所在城市（不要带‘市’），天气接口需要使用
-  city_name: 石家庄
+  city_name: 长春
   # 女朋友的爱称
   girl_name: 宝
   # 对自己的称呼
